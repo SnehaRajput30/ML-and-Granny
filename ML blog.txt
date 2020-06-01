@@ -1,0 +1,90 @@
+﻿In today's life machines are taking over human beings in every aspect. I consider you a lucky one, you have been able to experience the great evolution that happened in the technological field.
+
+
+Dear grandmother, I want to explain to you in the best way about Machine Learning (ML). So Machine Learning or ML, it is a part of something called Artificial Intelligence (or AI). Like the name suggests, it means to give the machine a part of our intelligence to help it make decisions. Actually anything that helps a machine act and mimic humans is Artificial Intelligence.
+
+
+Let me give you one example, with the use of mobile I can set reminders for my meeting just by saying “Hey Google!!! Set reminder for my meeting.” See this is artificial intelligence. The assistant on my phone is acting like a human and will remind me just like you do!
+
+
+Granny do you remember the old mobile phones you had at home, compare those with the new smart android mobile phones which we can use for video calls to talk to anyone in the world. That's how fast the world is changing and becoming more dependent on ML and AI.
+
+
+First let me tell you about Artificial Intelligence. As Machine learning is a part of AI it is important to know about AI. Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks. For example, they are chess-playing computers to self-driving cars, etc.
+
+
+The term artificial intelligence was coined in 1956, but AI has become more popular today thanks to increased data volumes, advanced algorithms, and improvements in computing power and storage. Early AI research in the 1950s explored topics like problem solving and symbolic methods. This early work made progress in the way for the automation and formal reasoning that we see in computers today, including decision support systems and smart search systems that can be designed to complement and augment human abilities. 
+While Hollywood movies and science fiction novels depict AI as human-like robots that take over the world, the current evolution of AI technologies isn’t that scary – or quite that smart. Instead, AI has evolved to provide many specific benefits in every industry.
+
+
+SO now we will see what Machine learning is. It is an application that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+
+Because of new computing technologies, machine learning today is not like machine learning of the past. It was born from pattern recognition and the theory that computers can learn without being programmed to perform specific tasks; researchers interested in artificial intelligence wanted to see if computers could learn from data. They learn from previous computations to produce reliable, repeatable decisions and results. It’s a science that’s not new – but one that has gained fresh momentum.
+
+
+What's required to create good machine learning systems?
+
+
+* Data preparation capabilities.
+* Algorithms – basic and advanced.
+* Automation and iterative processes.
+* Scalability.
+* Ensemble modeling.
+
+
+
+
+Various field using ML are :
+* Financial services
+* Government
+* Health care
+* Transportation
+* Oil and gas
+The algorithms used to work in ML can be divided into three main groups: supervised learning, unsupervised learning and reinforcement learning.
+  
+
+
+
+1. Supervised learning :
+        Supervised learning algorithms try to model relationships and dependencies between the target prediction output and the input features such that we can predict the output values for new data based on those relationships which it learned from the previous data sets.
+
+
+        Did you know, grandma, that a machine can recognize or distinguish between men and women? What’s more, can the machine identify people with only one image of their face? This can be done through supervised learning algorithms.
+
+
+        This technique depends on previously labeled data, such as the one that a computer managed to distinguish images of cars, from those of airplanes. For this, it is normal for these labels to be placed by humans to ensure the effectiveness and quality of the data.
+
+
+        In other words, they are problems that we have already solved, but that will continue to arise in the future. The idea is that computers learn from a multitude of examples, and from there they can restore the necessary data so that we do not have to re-enter any information.
+
+
+        Here the human experts act as the teacher where we feed the computer with training data containing the input/predictors and we show it the correct answers (output) and from the data the computer should be able to learn the patterns.
+2. Unsupervised learning:
+        In this technique, what happens is that the algorithm is deprived of any label, so it does not have any previous indication. Instead, providers of a huge amount of data are provided with the characteristics of an object (aspects or parts that make up an airplane or a car, for example), so that you can determine what it is, from the information collected. It is used to discover the hidden structure of the data and for tasks such as anomaly detection.
+
+
+        Here there’s no teacher at all, actually the computer might be able to teach you new things after it learns patterns in data, these algorithms are particularly useful in cases where the human expert doesn’t know what to look for in the data.
+
+
+        These algorithms try to use techniques on the input data to mine for rules, detect patterns, and summarize and group the data points which help in deriving meaningful insights and describe the data better to the users.
+
+
+3.Reinforcement Learning : 
+
+
+It allows machines and software agents to automatically determine the ideal behavior within a specific context, in order to maximize its performance. Simple reward feedback is required for the agent to learn its behavior; this is known as the reinforcement signal.
+
+
+        There are many different algorithms that tackle this issue. As a matter of fact, Reinforcement Learning is defined by a specific type of problem, and all its solutions are classed as Reinforcement Learning algorithms.
+
+
+        In order to produce intelligent programs (also called agents), reinforcement learning goes through the following steps:
+* Input state is observed by the agent.
+* Decision making function is used to make the agent perform an action.
+* After the action is performed, the agent receives reward or reinforcement from the environment.
+* The state-action pair information about the reward is stored.
+
+
+Finally I can say,
+There is possible to use different criteria to classify types of machine learning algorithms but I think using the learning task is great to visualize the big picture of ML and I believe according to any problem and the data you have in hand you can easily decide if you will use Supervised, unsupervised or reinforcement learning.
